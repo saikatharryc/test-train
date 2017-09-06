@@ -1,0 +1,56 @@
+[
+  {
+    "id": "6880951",
+    "name": "Category B",
+    "type": "category",
+    "url": null,
+    "parent": "",
+    "description": "Category Description",
+    "logo": ""
+  },
+   {
+    "id": "6880950",
+    "name": "Category A",
+    "type": "category",
+    "url": null,
+    "parent": "",
+    "description": "Category Description",
+    "logo": ""
+  },
+   {
+    "id": "6880939",
+    "name": "Service A",
+    "type": "service",
+    "url": "https://service-a.com/en",
+    "parent": "Category A",
+    "description": "English Ser-vice A Description",
+    "logo": ""
+  },
+  {
+    "id": "6880938",
+    "name": "Service B",
+    "type": "service",
+    "url": "https://service-a.com/en",
+    "parent": "Category B",
+    "description": "English Ser-vice B Description",
+    "logo": ""
+  },
+    {
+  "id": "6880940",
+    "name": "Service C",
+    "type": "service",
+    "url": "https://service-a.com/en",
+    "parent": "Category B",
+    "description": "English Ser-vice C Description",
+    "logo": ""
+  },
+  {
+  "id": "6880941",
+    "name": "Service D",
+    "type": "service",
+    "url": "https://service-a.com/en",
+    "parent": "Category A",
+    "description": "English Ser-vice D Description",
+    "logo": ""
+  }
+]
