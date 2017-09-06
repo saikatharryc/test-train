@@ -1,0 +1,20 @@
+[
+  {
+    "id": "6880939",
+    "name": "Service A",
+    "type": "service",
+    "url": "https://service-a.com/en",
+    "parent": "",
+    "description": "English Ser-vice A Description",
+    "logo": "data:image/png;base64,iVBORw0KGgoAAAA"
+  },
+  {
+    "id": "6880941",
+    "name": "Category A",
+    "type": "category",
+    "url": null,
+    "parent": "",
+    "description": "Category Description",
+    "logo": ""
+  }
+]
