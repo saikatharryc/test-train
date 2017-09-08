@@ -8,9 +8,18 @@
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
     "logo": ""
   },
-   {
+  {
     "id": "6880951",
     "name": "Category B",
+    "type": "category",
+    "url": null,
+    "parent": "",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "logo": ""
+  },
+  {
+    "id": "6880958",
+    "name": "Category C",
     "type": "category",
     "url": null,
     "parent": "",
@@ -69,6 +78,15 @@
     "url": "https://angular-2-training-book.rangle.io/handout/routing/routeparams.html",
     "parent": "Category A",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+    "logo": ""
+  },
+  {
+    "id": "6880940",
+    "name": "Service D",
+    "type": "service",
+    "url": "https://saikatharryc.me",
+    "parent": "Category C",
+    "description": "its a description only.",
     "logo": ""
   }
 ]
