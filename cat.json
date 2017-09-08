@@ -1,3 +1,4 @@
+
 [
   {
     "id": "6880950",
@@ -58,7 +59,7 @@
     "name": "Service A",
     "type": "service",
     "url": "https://angular-2-training-book.rangle.io/handout/routing/routeparams.html",
-    "parent": "Category A",
+    "parent": "6880950",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
     "logo": ""
   },
@@ -67,7 +68,7 @@
     "name": "Service B",
     "type": "service",
     "url": "https://angular.io/guide/pipes",
-    "parent": "Category B",
+    "parent": "6880951",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
     "logo": ""
   },
@@ -76,7 +77,7 @@
     "name": "Service C",
     "type": "service",
     "url": "https://angular.io/guide/pipes",
-    "parent": "Category B",
+    "parent": "6880951",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
     "logo": ""
   },
@@ -85,7 +86,7 @@
     "name": "Service D",
     "type": "service",
     "url": "https://angular-2-training-book.rangle.io/handout/routing/routeparams.html",
-    "parent": "Category A",
+    "parent": "6880950",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
     "logo": ""
   },
@@ -94,7 +95,7 @@
     "name": "Service D",
     "type": "service",
     "url": "https://saikatharryc.me",
-    "parent": "Category C",
+    "parent": "6880958",
     "description": "its a description only.",
     "logo": ""
   }
