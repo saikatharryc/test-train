@@ -27,6 +27,15 @@
     "logo": ""
   },
   {
+    "id": "6880954",
+    "name": "Category D",
+    "type": "category",
+    "url": null,
+    "parent": "",
+    "description": "Empty childs",
+    "logo": ""
+  },
+  {
     "id": "6780939",
     "name": "Testing service",
     "type": "service",
