@@ -1,102 +1,58 @@
-
 [
   {
-    "id": "6880950",
-    "name": "Category A",
-    "type": "category",
-    "url": null,
-    "parent": "",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
+    "fsId": 128,
+    "url": "/en/article_page_128.html",
+    "creationDate": "2017-10-13T00:00:00+0200",
+    "publishStartDate": "1970-01-01T00:00:00+0100",
+    "publishEndDate": "2199-01-01T00:00:00+0100",
+    "highlight": false,
+    "corporate": true,
+    "mainTag": {
+      "fsId": 14,
+      "name": "ConsumerGoods",
+      "url": "/en/tag_page_14.html"
+    },
+    "secondaryTags": [
+      
+    ],
+    "headline": "â€œHe enjoys being around other children bestâ€�",
+    "subline": "Bosch supports school lessons at Chinese hospitals for children with leukemia",
+    "text": "        ",
+    "keyvisualType": "image",
+    "keyvisuals": [
+      {
+        "key": "0_ORIGINAL",
+        "url": "http://bzo-d.bosch.com/media/temp/Kunming_Buehnenbild_w1920_h1080.jpg",
+        "title": "",
+        "style": "light"
+      },
+      {
+        "key": "0_DESKTOP",
+        "url": "http://bzo-d.bosch.com/media/temp/Kunming_Buehnenbild_w1920_h1080.jpg",
+        "title": "",
+        "style": "light"
+      },
+      {
+        "key": "0_TABLET",
+        "url": "http://bzo-d.bosch.com/media/temp/Kunming_Buehnenbild_w1200_h675.jpg",
+        "title": "",
+        "style": "light"
+      },
+      {
+        "key": "0_MOBILE",
+        "url": "http://bzo-d.bosch.com/media/temp/Kunming_Buehnenbild_w992_h558.jpg",
+        "title": "",
+        "style": "light"
+      }
+    ],
+    "socialMediaElements": [
+      "like",
+      "comment",
+      "share"
+    ]
   },
-  {
-    "id": "6880951",
-    "name": "Category B",
-    "type": "category",
-    "url": null,
-    "parent": "",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
-  },
-  {
-    "id": "6880958",
-    "name": "Category C",
-    "type": "category",
-    "url": null,
-    "parent": "",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
-  },
-  {
-    "id": "6880954",
-    "name": "Category D",
-    "type": "category",
-    "url": null,
-    "parent": "",
-    "description": "Empty childs",
-    "logo": ""
-  },
-  {
-    "id": "6780939",
-    "name": "Testing service",
-    "type": "service",
-    "url": "https://angular-2-training-book.rangle.io/handout/routing/routeparams.html",
-    "parent": "",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
-  },
-  {
-    "id": "6780939",
-    "name": "Testing service-A",
-    "type": "service",
-    "url": "https://angular-2-training-book.rangle.io/handout/routing/routeparams.html",
-    "parent": "",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
-  },
-  {
-    "id": "6880939",
-    "name": "Service A",
-    "type": "service",
-    "url": "https://angular-2-training-book.rangle.io/handout/routing/routeparams.html",
-    "parent": "6880950",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
-  },
-  {
-    "id": "6880938",
-    "name": "Service B",
-    "type": "service",
-    "url": "https://angular.io/guide/pipes",
-    "parent": "6880951",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
-  },
-  {
-    "id": "6880940",
-    "name": "Service C",
-    "type": "service",
-    "url": "https://angular.io/guide/pipes",
-    "parent": "6880951",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
-  },
-  {
-    "id": "6880941",
-    "name": "Service D",
-    "type": "service",
-    "url": "https://angular-2-training-book.rangle.io/handout/routing/routeparams.html",
-    "parent": "6880950",
-    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-    "logo": ""
-  },
-  {
-    "id": "6880949",
-    "name": "Service D",
-    "type": "service",
-    "url": "https://saikatharryc.me",
-    "parent": "6880958",
-    "description": "its a description only.",
-    "logo": ""
-  }
+  null,
+  null,
+  null,
+  null
 ]
