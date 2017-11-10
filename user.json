@@ -1,0 +1,29 @@
+[
+  {
+    "accountId": "GKB5KOR",
+    "firstName": "Bharathi",
+    "lastName": "Gurka",
+    "emailId": "external.Bharathi.Gurka@in.bosch.com",
+    "department": "RBEI/BSJ4",
+    "roles": [
+      {
+        "roleId": 1,
+        "roleName": "rb_basp_bzo"
+      },
+      {
+        "roleId": 2,
+        "roleName": "rb_basp_uib"
+      }
+    ],
+    "handler": {
+      
+    },
+    "roleNames": [
+      "rb_basp_bzo",
+      "rb_basp_uib"
+    ],
+    "hibernateLazyInitializer": {
+      
+    }
+  }
+]
