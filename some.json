@@ -1,58 +1,171 @@
 [
-  {
-    "fsId": 128,
-    "url": "/en/article_page_128.html",
-    "creationDate": "2017-10-13T00:00:00+0200",
-    "publishStartDate": "1970-01-01T00:00:00+0100",
-    "publishEndDate": "2199-01-01T00:00:00+0100",
-    "highlight": false,
-    "corporate": true,
-    "mainTag": {
-      "fsId": 14,
-      "name": "ConsumerGoods",
-      "url": "/en/tag_page_14.html"
+    {
+        "secondaryTags": [
+            {
+                "fsId": 12,
+                "name": "Industry 4.0",
+                "url":"http://bzo-qa.bosch.com/de/tag_page_12.html"
+            },
+            {
+                "fsId": 17,
+                "name": "Electric Vehicle",
+                "url":"http://bzo-qa.bosch.com/de/tag_page_17.html"
+            },
+            {
+                "fsId": 35,
+                "name": "Compliance",
+                "url":"http://bzo-qa.bosch.com/de/tag_page_35.html"
+            }
+        ],
+        "keyvisuals": [
+            {
+                "style": "dark",
+                "title": "Mehr Details zur Elektromobilität bei Bosch finden Sie in diesem Webspecial.",
+                "key": "0_ORIGINAL",
+                "url":"http://bzo-qa.bosch.com/media/temp/e_auto_w1920_h1080.jpg"
+            },
+            {
+                "style": "dark",
+                "title": "Mehr Details zur Elektromobilität bei Bosch finden Sie in diesem Webspecial.",
+                "key": "0_DESKTOP",
+                "url":"http://bzo-qa.bosch.com/media/temp/e_auto_w1920_h1080.jpg"
+            },
+            {
+                "style": "dark",
+                "title": "Mehr Details zur Elektromobilität bei Bosch finden Sie in diesem Webspecial.",
+                "key": "0_TABLET",
+                "url":"http://bzo-qa.bosch.com/media/temp/e_auto_w1200_h675.jpg"
+            },
+            {
+                "style": "dark",
+                "title": "Mehr Details zur Elektromobilität bei Bosch finden Sie in diesem Webspecial.",
+                "key": "0_MOBILE",
+                "url":"http://bzo-qa.bosch.com/media/temp/e_auto_w992_h558.jpg"
+            }
+        ],
+        "keyvisualType": "image",
+        "mainTag": {
+            "fsId": 18,
+            "name": "eBikes",
+            "url":"http://bzo-qa.bosch.com/de/tag_page_18.html"
+        },
+        "creationDate": "2017-08-21T17:21:35+0200",
+        "url":"http://bzo-qa.bosch.com/de/article_page_46.html",
+        "socialMediaElements": [
+            "comment",
+            "share"
+        ],
+        "highlight": false,
+        "publishStartDate": "1970-01-01T00:00:00+0100",
+        "corporate": true,
+        "contact": "MLL3FE",
+        "fsId": 46,
+        "publishEndDate": "2199-01-01T00:00:00+0100",
+        "publisher": "MLL3FE",
+        "text": " \n        Gerlingen  \u2013 Dass eine leistungsstärkere Batterie die Reichweite eines Elektroautos erhöht, weiß mittlerweile jedes Kind. Aber ein neuer Antrieb, der Stromer erheblich weiterbringt? Der elektrische Achsantrieb (eAchse) von Bosch kann die Reichweite von Elektroautos erhöhen. Der Kniff dabei: Bosch hat aus drei Antriebsteilen eins gemacht. Motor, Leistungselektronik und Getriebe sind kompakt kombiniert und treiben unmittelbar die Achse des Autos an. Das macht den Antrieb nicht nur deutlich effizienter, sondern auch günstiger. \u201eBosch bringt mit der eAchse das All-in-one Prinzip in den Antrieb\u201c, sagt Dr. Rolf Bulander, Geschäftsführer der Robert Bosch GmbH und Vorsitzender des Unternehmensbereichs Mobility Solutions. Der neue Antrieb birgt für Bosch genau deshalb enormes Geschäftspotenzial. Der Grund dafür ist eine hohe Flexibilität der Komponente, die einen großen Markt erschließt. Denn die eAchse kann in Hybride und Elektroautos, kleine Pkw, SUV und sogar leichte Nutzfahrzeuge eingebaut werden.  Ein Antrieb, der auch Entwicklungszeiten beschleunigt  \u201eWirtschaftlich kann die eAchse für Bosch zum großen Wurf werden\u201c, sagt Bulander. Der neu gedachte elektrische Antrieb ist ein zentraler Baustein, um im Massenmarkt ab 2020 weltweiter Marktführer bei Elektromobilität zu werden. Aktuell sind weltweit schon weit über 500 000 Elektroautos und Hybride mit Komponenten von Bosch unterwegs. Bosch hat somit jahrelange Erfahrung in der Produktion von Elektromotoren, Achsantrieben und mit der Leistungselektronik gesammelt. Die damit verbundene Expertise kommt nun bei der neu entwickelten elektrischen Achse zum Tragen. Bosch erhofft sich Milliardenumsätze allein mit diesem Bauteil.   \n Die eAchse ist der Start-up-Antrieb für Elektroautos \u2013 auch bei etablierten Autoherstellern. Diese sparen sich damit teure Entwicklungszeit und können Elektrofahrzeuge deutlich schneller auf den Markt bringen. \n       Da Bosch den Antrieb an die Bedürfnisse des Autoherstellers anpasst, können zeitaufwändige Neuentwicklungen beim Kunden entfallen. Muster der elektrischen Achse werden mit Kunden bereits getestet. Der Marktanlauf in Großserie ist für 2019 geplant. Schon jetzt hat Bosch ein flexibles und weltweit einsatzbereites Fertigungskonzept für die Komponente entwickelt. Es garantiert, dass jeder Kunde eine auf seine Bedürfnisse angepasste und schnell in die Produktion zu integrierende Lösung erhält. \n",
+        "headline": "Der Start-up Antrieb für Elektroautos: Mehr Reichweite mit der eAchse von Bosch",
+        "subline": "Neuentwicklung: Effizienter und günstiger als andere Elektroantriebe"
     },
-    "secondaryTags": [
-      
-    ],
-    "headline": "â€œHe enjoys being around other children bestâ€�",
-    "subline": "Bosch supports school lessons at Chinese hospitals for children with leukemia",
-    "text": "        ",
-    "keyvisualType": "image",
-    "keyvisuals": [
-      {
-        "key": "0_ORIGINAL",
-        "url": "http://bzo-d.bosch.com/media/temp/Kunming_Buehnenbild_w1920_h1080.jpg",
-        "title": "",
-        "style": "light"
-      },
-      {
-        "key": "0_DESKTOP",
-        "url": "http://bzo-d.bosch.com/media/temp/Kunming_Buehnenbild_w1920_h1080.jpg",
-        "title": "",
-        "style": "light"
-      },
-      {
-        "key": "0_TABLET",
-        "url": "http://bzo-d.bosch.com/media/temp/Kunming_Buehnenbild_w1200_h675.jpg",
-        "title": "",
-        "style": "light"
-      },
-      {
-        "key": "0_MOBILE",
-        "url": "http://bzo-d.bosch.com/media/temp/Kunming_Buehnenbild_w992_h558.jpg",
-        "title": "",
-        "style": "light"
-      }
-    ],
-    "socialMediaElements": [
-      "like",
-      "comment",
-      "share"
-    ]
-  },
-  null,
-  null,
-  null,
-  null
+    {
+        "secondaryTags": [],
+        "keyvisuals": [
+            {
+                "style": "light",
+                "title": "",
+                "key": "0_ORIGINAL",
+                "url":"http://bzo-qa.bosch.com/media/temp/Kunming_Buehnenbild_w1920_h1080.jpg"
+            },
+            {
+                "style": "light",
+                "title": "",
+                "key": "0_DESKTOP",
+                "url":"http://bzo-qa.bosch.com/media/temp/Kunming_Buehnenbild_w1920_h1080.jpg"
+            },
+            {
+                "style": "light",
+                "title": "",
+                "key": "0_TABLET",
+                "url":"http://bzo-qa.bosch.com/media/temp/Kunming_Buehnenbild_w1200_h675.jpg"
+            },
+            {
+                "style": "light",
+                "title": "",
+                "key": "0_MOBILE",
+                "url":"http://bzo-qa.bosch.com/media/temp/Kunming_Buehnenbild_w992_h558.jpg"
+            }
+        ],
+        "keyvisualType": "image",
+        "mainTag": {
+            "fsId": 14,
+            "name": "ConsumerGoods",
+            "url":"http://bzo-qa.bosch.com/en/tag_page_14.html"
+        },
+        "creationDate": "2017-10-13T00:00:00+0200",
+        "url":"http://bzo-qa.bosch.com/en/article_page_128.html",
+        "socialMediaElements": [
+            "like",
+            "comment",
+            "share"
+        ],
+        "highlight": false,
+        "publishStartDate": "1970-01-01T00:00:00+0100",
+        "corporate": true,
+        "fsId": 128,
+        "publishEndDate": "2199-01-01T00:00:00+0100",
+        "text": "        ",
+        "headline": "\u201cHe enjoys being around other children best\u201d",
+        "subline": "Bosch supports school lessons at Chinese hospitals for children with leukemia"
+    },
+    {
+        "secondaryTags": [],
+        "keyvisuals": [
+            {
+                "style": "dark",
+                "title": "1046 El apparillo",
+                "key": "0_ORIGINAL",
+                "url":"http://bzo-qa.bosch.com/media/bnn/2017/torsten_test/news-5-high_w1920_h1080.jpg"
+            },
+            {
+                "style": "dark",
+                "title": "1046 El apparillo",
+                "key": "0_DESKTOP",
+                "url":"http://bzo-qa.bosch.com/media/bnn/2017/torsten_test/news-5-high_w1920_h1080.jpg"
+            },
+            {
+                "style": "dark",
+                "title": "1046 El apparillo",
+                "key": "0_TABLET",
+                "url":"http://bzo-qa.bosch.com/media/bnn/2017/torsten_test/news-5-high_w1200_h675.jpg"
+            },
+            {
+                "style": "dark",
+                "title": "1046 El apparillo",
+                "key": "0_MOBILE",
+                "url":"http://bzo-qa.bosch.com/media/bnn/2017/torsten_test/news-5-high_w992_h558.jpg"
+            }
+        ],
+        "keyvisualType": "image",
+        "mainTag": {
+            "fsId": 0,
+            "name": "",
+            "url":"http://bzo-qa.bosch.com/en/tag_page_39.html"
+        },
+        "creationDate": "2017-10-27T00:00:00+0200",
+        "url":"http://bzo-qa.bosch.com/en/article_page_385.html",
+        "socialMediaElements": [
+            "like",
+            "comment",
+            "share"
+        ],
+        "highlight": false,
+        "publishStartDate": "2017-10-27T07:38:35+0200",
+        "corporate": true,
+        "contact": "bis7fe",
+        "fsId": 385,
+        "publishEndDate": "2199-01-01T00:00:00+0100",
+        "publisher": "MLL3FE",
+        "text": "  English Zitat",
+        "headline": "Nice Castle with nice green animal",
+        "subline": "Test Torsten"
+    }
 ]
