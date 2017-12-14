@@ -1,0 +1,27 @@
+[
+  {
+    "id": "6915646",
+    "question": "Was ist MyIntranet.Bosch?",
+    "answer": "Das MyIntranet.Bosch-Webportal bietet allen Mitarbeitern der Robert Bosch-Gruppe die Möglichkeit, jederzeit und überall Neuigkeiten von Bosch zu erhalten."
+  },
+  {
+    "id": "6915796",
+    "question": "Was sind die Kriterien für MyIntranet.Bosch?",
+    "answer": "Um sich für das MyIntranet.Bosch-Webpotal anzumelden, müssen Sie ein Mitarbeiter der Robert Bosch Gruppe sein."
+  },
+  {
+    "id": "6915798",
+    "question": "Wie melde ich mich für MyIntranet.Bosch an?",
+    "answer": "Bitte wenden Sie sich an Ihren lokalen IT-Partner, der Ihnen bei der Registrierung behilflich sein kann"
+  },
+  {
+    "id": "6915800",
+    "question": "Ich hatte mich im System angemeldet und warum muss ich den 2. Authentifizierungsfaktor eingeben?",
+    "answer": "Der zweite Authentifizierungsfaktor ist die zweite Sicherheitsstufe, die Ihre Identität für den Zugriff auf Ihre freiwilligen Daten bestätigt."
+  },
+  {
+    "id": "6915801",
+    "question": "Wie erhalte ich den 2. Authentifizierungsfaktor?",
+    "answer": "Sie erhalten von Bosch einen automatischen Telefonanruf, um Ihre Identität zu bestätigen. Dies ist der 2. Authentifizierungsfaktor. Der Anruf wird auf Ihre Handynummer erfolgen, die Sie bei der Registrierung für das Webportal MyIntranet.Bosch hinterlegt haben."
+  }
+]
